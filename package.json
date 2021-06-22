@@ -1,0 +1,16 @@
+{
+  "name": "cowin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "-": "0.0.1",
+    "node-notifier": "^9.0.1"
+	},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
