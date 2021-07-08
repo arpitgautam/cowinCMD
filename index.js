@@ -11,7 +11,7 @@ let VACCINE_THRESHOLD = 2;
 
 
 //>node index.js
-//IIFY
+//IFFY
 //single shot to start things off
 (async () => {
     try {
